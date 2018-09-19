@@ -1,0 +1,12 @@
+>Freshwater
+freshwater, pond, puddle, river, canal, pool, bog, fen, river, lake, stream, wash, groundwater, ice, glacier, slough, reservoir, brook, drainage, run-off, wetland
+>Marine
+marine, estuarine, harbor, gulf, salt marsh, tide, salt, saline, brackish, tidal, ocean, delta, sea, bay, lagoon, littoral, intertidal, Pacific, Atlantic, abyssal, reef
+>Aquatic
+aquatic, water, basin, plankton, pelagic
+>Sediment
+sediment, soil, dirt, land, humus, terrestrial, mold, ground, field, park, beach, rocks, gravel, bedrock, fecal pellets, silt, clay, mire, mulch, alluvial fan, tundra, forest, desert, grassland, phyllosphere, rhizosphere, detritus, detrital, litter
+>animal_parasite
+blood, feces, stool, fecal, intestinal
+>plant_parasite
+plant, leaves, root, leaf, grass

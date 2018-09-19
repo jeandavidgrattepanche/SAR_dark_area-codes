@@ -1,0 +1,11 @@
+pn	Abramis brama
+pn	Abramis sapa
+pn	Acalymma vittatum
+pn	Acanthochiasma sp.
+pn	Acanthodactylus boskianus
+pn	Acanthodactylus erythrurus belli
+pn	Acanthodesmia vinculata (speceimen no. 1)
+pn	Acanthodesmia vinculata (speceimen no. 2)
+pn	Acartia clausii
+pn	Acartia negligens
+pn	Acarus siro L.

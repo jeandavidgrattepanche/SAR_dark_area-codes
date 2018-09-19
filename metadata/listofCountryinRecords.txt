@@ -1,0 +1,163 @@
+country
+Albania
+Algeria
+Angola
+Antarctica
+Arctic Ocean
+Argentina
+Atlantic Ocean
+Australia
+Austria
+Bahamas
+Baltic Sea
+Bangladesh
+Belarus
+Belgium
+Belize
+Bermuda
+Bolivia
+Borneo
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chile
+China
+Colombia
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Dominican Republic
+Ecuador
+Egypt
+Equatorial Guinea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Germany
+Ghana
+Greece
+Greenland
+Guam
+Guatemala
+Guinea
+Hong Kong
+Hungary
+Iceland
+India
+Indian Ocean
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kenya
+Kuwait
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Lugurni
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Malta
+Martinique
+Mauritania
+Mediterranean Sea
+Mexico
+Micronesia
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Sea
+Norway
+Oman
+Pacific Ocean
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Southern Ocean
+Spain
+Sudan
+Svalbard
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+USA
+Venezuela
+Viet Nam
+Virgin Islands
+Western Sahara
+Zimbabwe

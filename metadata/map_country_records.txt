@@ -1,0 +1,106 @@
+	country	ISO3.1	ADMIN.1	REGION	continent	GEO3major	GEO3	LON	LAT	country2	Stramenopiles	Alveolata	Rhizaria
+1	Antarctica	ATA	Antarctica	Antarctica	Antarctica	Polar	Antarctic	21.28439294	-80.5227822	Antarctica	21	18	184
+2	Arctic Ocean		Arctic	Arctic	Arctic	Polar	Arctic	0.5	80.5	Arctic Ocean	0	7.142857143	42.85714286
+3	Argentina	ARG	Argentina	South America	South America	Latin America and the Caribbean	South America	-65.14954339	-35.220172	Argentina	7.142857143	35.71428571	7.142857143
+4	Atlantic Ocean		Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	-42.16	25	Atlantic Ocean	9	4	103
+5	Australia	AUS	Australia	Australia	Australia	Asia and the Pacific	Australia and New Zealand	134.3760786	-25.56076406	Australia	18	20	44
+6	Austria	AUT	Austria	Europe	Eurasia	Europe	Western Europe	14.07615888	47.61394879	Austria	12.5	34.375	3.125
+7	Baltic Sea		Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	4.21	53.9	Baltic Sea	0	50	0
+8	Belgium	BEL	Belgium	Europe	Eurasia	Europe	Western Europe	4.580831591	50.65244261	Belgium	27.77777778	0	22.22222222
+9	Bermuda	BMU	Bermuda	South America	South America	Latin America and the Caribbean	Caribbean	-64.75454186	32.31368594	Bermuda	0	0	50
+10	Bolivia	BOL	Bolivia	South America	South America	Latin America and the Caribbean	South America	-64.64140561	-16.72898702	Bolivia	0	16.66666667	33.33333333
+11	Botswana	BWA	Botswana	Africa	Africa	Africa	Southern Africa	23.77308147	-22.09971138	Botswana	0	50	0
+12	Brazil	BRA	Brazil	South America	South America	Latin America and the Caribbean	South America	-53.05434004	-10.80677364	Brazil	21.73913043	28.26086957	0
+13	Bulgaria	BGR	Bulgaria	Europe	Eurasia	Europe	Central Europe	25.19511095	42.75311876	Bulgaria	0	0	50
+14	Canada	CAN	Canada	North America	North America	North America	Canada	-101.5698221	57.7487688	Canada	37	31	4
+15	Chile	CHL	Chile	South America	South America	Latin America and the Caribbean	South America	-71.67094512	-37.34183187	Chile	47.82608696	0	2.173913043
+16	China	CHN	China	Asia	Eurasia	Asia and the Pacific	NW Pacific and East Asia	103.8653653	36.60943238	China	37	324	26
+17	Colombia	COL	Colombia	South America	South America	Latin America and the Caribbean	South America	-73.07773209	3.927213863	Colombia	37.5	12.5	0
+18	Costa Rica	CRI	Costa Rica	South America	South America	Latin America and the Caribbean	Meso-America	-84.1754231	9.965671127	Costa Rica	0	0	50
+19	Croatia	HRV	Croatia	Europe	Eurasia	Europe	Central Europe	16.56619111	45.01623437	Croatia	0	0	50
+20	Cuba	CUB	Cuba	South America	South America	Latin America and the Caribbean	Caribbean	-78.96068491	21.63175154	Cuba	0	50	0
+21	Cyprus	CYP	Cyprus	Europe	Eurasia	Europe	Central Europe	33.0395538	34.90706085	Cyprus	0	50	0
+22	Czech Republic	CZE	Czech Republic	Europe	Eurasia	Europe	Central Europe	15.3345581	49.77524529	Czech Republic	41.66666667	8.333333333	0
+23	Denmark	DNK	Denmark	Europe	Eurasia	Europe	Western Europe	9.310777784	56.21962624	Denmark	10.81081081	13.51351351	25.67567568
+24	Dominican Republic	DOM	Dominican Republic	South America	South America	Latin America and the Caribbean	Caribbean	-70.46235846	18.88448709	Dominican Republic	0	8.333333333	41.66666667
+25	Ecuador	ECU	Ecuador	South America	South America	Latin America and the Caribbean	South America	-78.38416675	-1.454771706	Ecuador	0	50	0
+26	Egypt	EGY	Egypt	Africa	Africa	Africa	North Africa	29.84446151	26.50662	Egypt	37.5	12.5	0
+27	Faroe Islands	FRO	Faroe Islands	Europe	Eurasia	Europe	Western Europe	-6.884745852	62.17017783	Faroe Islands	0	0	50
+28	Fiji	FJI	Fiji	Australia	Australia	Asia and the Pacific	South Pacific	177.9970702	-17.83093589	Fiji	0	50	0
+29	Finland	FIN	Finland	Europe	Eurasia	Europe	Western Europe	26.2117647	64.50409392	Finland	35.71428571	14.28571429	0
+30	France	FRA	France	Europe	Eurasia	Europe	Western Europe	2.339088646	46.60646337	France	88	112	52
+31	Germany	DEU	Germany	Europe	Eurasia	Europe	Western Europe	10.28848509	51.13372269	Germany	148	50	51
+32	Ghana	GHA	Ghana	Africa	Africa	Africa	Western Africa	-1.236968556	7.928651813	Ghana	0	50	0
+33	Greece	GRC	Greece	Europe	Eurasia	Europe	Western Europe	22.5638882	39.34174658	Greece	50	0	0
+34	Greenland	GRL	Greenland	Europe	Eurasia	Europe	Polar	-41.50018111	74.77048769	Greenland	0	26	78
+35	Guam	GUM	Guam	Australia	Australia	Asia and the Pacific	South Pacific	144.7679224	13.4416655	Guam	11.11111111	0	38.88888889
+36	Guatemala	GTM	Guatemala	South America	South America	Latin America and the Caribbean	Meso-America	-90.36945836	15.69936061	Guatemala	0	50	0
+37	Hong Kong	HKG	Hong Kong S.A.R.	Asia	Eurasia	Asia and the Pacific	NW Pacific and East Asia	114.1391813	22.43918389	Hong Kong	0	50	0
+38	Hungary	HUN	Hungary	Europe	Eurasia	Europe	Central Europe	19.35762863	47.19995117	Hungary	50	0	0
+39	Iceland	ISL	Iceland	Europe	Eurasia	Europe	Western Europe	-18.76102877	65.07427634	Iceland	5.769230769	1.923076923	42.30769231
+40	India	IND	India	Asia	Eurasia	Asia and the Pacific	South Asia	79.59370376	22.92500641	India	28.57142857	21.42857143	0
+41	Indian Ocean		Indian Ocean	Indian Ocean	Indian Ocean	Indian Ocean	Indian Ocean	77	-10	Indian Ocean	1	2	131
+42	Indonesia	IDN	Indonesia	Asia	Eurasia	Asia and the Pacific	Southeast Asia	114.0226835	-0.254301557	Indonesia	8.333333333	25	16.66666667
+43	Iran	IRN	Iran	Asia	Eurasia	Asia and the Pacific	South Asia	54.2854515	32.51891732	Iran	33.33333333	16.66666667	0
+44	Ireland	IRL	Ireland	Europe	Eurasia	Europe	Western Europe	-8.010236545	53.18059121	Ireland	22.22222222	27.77777778	0
+45	Israel	ISR	Israel	Europe	Eurasia	Europe	Western Europe	35.00385005	31.48491781	Israel	0	2	86
+46	Italy	ITA	Italy	Europe	Eurasia	Europe	Western Europe	12.21947649	43.47247611	Italy	42	50	2
+47	Jamaica	JAM	Jamaica	South America	South America	Latin America and the Caribbean	Caribbean	-77.3242548	18.13763613	Jamaica	0	50	0
+48	Japan	JPN	Japan	Asia	Eurasia	Asia and the Pacific	NW Pacific and East Asia	136.8819473	36.01907537	Japan	94	234	242
+49	Jordan	JOR	Jordan	Asia	Eurasia	West Asia	Mashriq	36.77945491	31.24549058	Jordan	0	50	0
+50	Kenya	KEN	Kenya	Africa	Africa	Africa	Eastern Africa	37.79155529	0.595966252	Kenya	0	50	0
+51	Kuwait	KWT	Kuwait	Asia	Eurasia	West Asia	Mashriq	47.60009889	29.30726663	Kuwait	16.66666667	33.33333333	0
+52	Luxembourg	LUX	Luxembourg	Europe	Eurasia	Europe	Western Europe	5.965223432	49.76570507	Luxembourg	50	0	0
+53	Macedonia	MKD	Macedonia	Europe	Eurasia	Europe	Central Europe	21.69789682	41.60592893	Macedonia	50	0	0
+54	Malaysia	MYS	Malaysia	Asia	Eurasia	Asia and the Pacific	Southeast Asia	114.675514	3.548111771	Malaysia	40.74074074	9.259259259	0
+55	Maldives	MDV	Maldives	Asia	Eurasia	Asia and the Pacific	South Asia	73.41089748	3.260754212	Maldives	0	0	50
+56	Martinique		Martinique	South America	South America	Latin America and the Caribbean	Caribbean	-61	14.65	Martinique	0	50	0
+57	Mediterranean Sea		Mediterranean Sea	Mediterranean Sea	Mediterranean Sea	Mediterranean Sea	Mediterranean Sea	18.005	34.5	Mediterranean Sea	1	67	31
+58	Mexico	MEX	Mexico	South America	South America	Latin America and the Caribbean	Meso-America	-102.5763495	23.9353719	Mexico	10	40	0
+59	Mongolia	MNG	Mongolia	Asia	Eurasia	Asia and the Pacific	NW Pacific and East Asia	102.9464052	46.8236825	Mongolia	0	50	0
+60	Morocco	MAR	Morocco	Africa	Africa	Africa	North Africa	-8.420479545	29.8853947	Morocco	16.66666667	33.33333333	0
+61	Namibia	NAM	Namibia	Africa	Africa	Africa	Southern Africa	17.15616813	-22.09977693	Namibia	0	10	40
+62	Netherlands	NLD	Netherlands	Europe	Eurasia	Europe	Western Europe	5.512217101	52.29870037	Netherlands	12.5	37.5	0
+63	Netherlands Antilles	CUW	Curacao	South America	South America	Latin America and the Caribbean	Caribbean	-68.9712225	12.19552443	Netherlands Antilles	0	0	50
+64	New Caledonia	NCL	New Caledonia	Australia	Australia	Asia and the Pacific	South Pacific	165.5344746	-21.26135761	New Caledonia	0	0	50
+65	New Zealand	NZL	New Zealand	Australia	Australia	Asia and the Pacific	Australia and New Zealand	170.5130114	-43.98581773	New Zealand	23	9	25
+66	ND		ND	ND	ND	ND	ND	-108	-52	NoData	2404	1986	3848
+67	North Sea		Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	Atlantic Ocean	3.5	56.5	North Sea	0	50	0
+68	Norway	NOR	Norway	Europe	Eurasia	Europe	Western Europe	14.24477989	64.53653033	Norway	15	9	39
+69	Oman	OMN	Oman	Asia	Eurasia	West Asia	Arabian Peninsula	56.09759853	20.58108029	Oman	25	25	0
+70	Pacific Ocean		Pacific Ocean	Pacific Ocean	Pacific Ocean	Pacific Ocean	Pacific Ocean	-124.8	-9	Pacific Ocean	5	0	302
+71	Pakistan	PAK	Pakistan	Asia	Eurasia	Asia and the Pacific	South Asia	69.41399806	29.97346003	Pakistan	0	50	0
+72	Palau	PLW	Palau	Australia	Australia	Asia and the Pacific	South Pacific	134.5805005	7.512980955	Palau	50	0	0
+73	Panama	PAN	Panama	South America	South America	Latin America and the Caribbean	Meso-America	-80.10916484	8.530019389	Panama	50	0	0
+74	Peru	PER	Peru	South America	South America	Latin America and the Caribbean	South America	-74.39180582	-9.191562905	Peru	0	50	0
+75	Philippines	PHL	Philippines	Asia	Eurasia	Asia and the Pacific	Southeast Asia	121.5444424	15.75094435	Philippines	10	40	0
+76	Poland	POL	Poland	Europe	Eurasia	Europe	Central Europe	19.31101431	52.14826022	Poland	42.85714286	7.142857143	0
+77	Portugal	PRT	Portugal	Europe	Eurasia	Europe	Western Europe	-8.055765588	39.63404977	Portugal	28	8	14
+78	Puerto Rico	PRI	Puerto Rico	South America	South America	Latin America and the Caribbean	Caribbean	-66.47922228	18.23722457	Puerto Rico	0	25	25
+79	Qatar	QAT	Qatar	Asia	Eurasia	West Asia	Arabian Peninsula	51.18350258	25.32185097	Qatar	0	50	0
+80	Reunion		Reunion	Africa	Africa	Africa	Western Indian Ocean	55.5	-21.1	Reunion	0	0	50
+81	Russia	RUS	Russia	Europe	Eurasia	Europe	Eastern Europe	99.21652679	61.69256471	Russia	23.21428571	17.85714286	8.928571429
+82	Saint Helena	SHN	Saint Helena	Africa	Africa	Africa	Southern Africa	-5.716196812	-15.95890195	Saint Helena	50	0	0
+83	Saudi Arabia	SAU	Saudi Arabia	Asia	Eurasia	West Asia	Arabian Peninsula	44.51636377	24.12328984	Saudi Arabia	25	25	0
+84	Singapore	SGP	Singapore	Asia	Eurasia	Asia and the Pacific	Southeast Asia	103.8172532	1.358770661	Singapore	25	25	0
+85	Slovakia	SVK	Slovakia	Europe	Eurasia	Europe	Central Europe	19.50765715	48.72671135	Slovakia	0	50	0
+86	South Africa	ZAF	South Africa	Africa	Africa	Africa	Southern Africa	25.11739621	-28.96210619	South Africa	18.75	31.25	0
+87	South Korea	KOR	South Korea	Asia	Eurasia	Asia and the Pacific	NW Pacific and East Asia	127.8213171	36.4275986	South Korea	18	142	0
+88	Southern Ocean		Southern Ocean	Southern Ocean	Southern Ocean	Southern Ocean	Southern Ocean	0	-62	Southern Ocean	0	0	50
+89	Spain	ESP	Spain	Europe	Eurasia	Europe	Western Europe	-3.617020602	40.34865611	Spain	21	25	8
+90	Sudan	SDN	Sudan	Africa	Africa	Africa	North Africa	29.86260401	15.990585	Sudan	0	50	0
+91	Svalbard		Svalbard	Europe	Eurasia	Europe	Polar	-17.5	78.5	Svalbard	0	41.66666667	8.333333333
+92	Sweden	SWE	Sweden	Europe	Eurasia	Europe	Western Europe	16.59626585	62.81148497	Sweden	4.87804878	4.87804878	40.24390244
+93	Switzerland	CHE	Switzerland	Europe	Eurasia	Europe	Western Europe	8.118300613	46.79173768	Switzerland	17.39130435	2.173913043	30.43478261
+94	Taiwan	TWN	Taiwan	Asia	Eurasia	Asia and the Pacific	NW Pacific and East Asia	120.9748007	23.74096498	Taiwan	50	0	0
+95	Tanzania	TZA	United Republic of Tanzania	Africa	Africa	Africa	Southern Africa	34.75298813	-6.257732721	Tanzania	0	50	0
+96	Thailand	THA	Thailand	Asia	Eurasia	Asia and the Pacific	Southeast Asia	101.0061335	15.01697499	Thailand	0	37.5	12.5
+97	Tunisia	TUN	Tunisia	Africa	Africa	Africa	North Africa	9.534716121	34.17293904	Tunisia	37.5	0	12.5
+98	Turkey	TUR	Turkey	Europe	Eurasia	Europe	Central Europe	35.39210246	38.99072973	Turkey	35.71428571	14.28571429	0
+99	Uganda	UGA	Uganda	Africa	Africa	Africa	Eastern Africa	32.35754815	1.295486963	Uganda	0	0	50
+100	Ukraine	UKR	Ukraine	Europe	Eurasia	Europe	Eastern Europe	31.36953308	48.97301797	Ukraine	8.333333333	13.88888889	27.77777778
+101	United Kingdom	GBR	United Kingdom	Europe	Eurasia	Europe	Western Europe	-2.657992979	53.88335871	United Kingdom	46	28	55
+102	Uruguay	URY	Uruguay	South America	South America	Latin America and the Caribbean	South America	-56.00327867	-32.78090437	Uruguay	50	0	0
+103	USA	USA	United States of America	North America	North America	North America	US	-99.06024063	39.50155413	USA	251	121	54
+104	Venezuela	VEN	Venezuela	South America	South America	Latin America and the Caribbean	South America	-66.16382728	7.162132268	Venezuela	0	50	0
+105	Viet Nam	VNM	Vietnam	Asia	Eurasia	Asia and the Pacific	Southeast Asia	106.2858408	16.65793775	Viet Nam	30	20	0

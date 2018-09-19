@@ -1,0 +1,858 @@
+parasite?	host
+pn	Abramis brama
+pn	Abramis sapa
+pn	Acalymma vittatum
+pn	Acanthochiasma sp.
+pn	Acanthodactylus boskianus
+pn	Acanthodactylus erythrurus belli
+pn	Acanthodesmia vinculata (speceimen no. 1)
+pn	Acanthodesmia vinculata (speceimen no. 2)
+pn	Acartia clausii
+pn	Acartia negligens
+pn	Acarus siro L.
+pn	Acerina cernua
+pn	Acinonyx jubatus
+pn	Acipenser ruthenus
+pn	Acropora
+pn	Acropora brueggemanni
+pn	Acropora formosa
+pn	Acropora hyacinthus
+pn	Acropora millepora (blue)
+pn	Acropora millepora (green)
+pn	Acropora millepora (pink)
+pn	Acropora palifera
+pn	Acropora pruinosa
+pn	Acropora sp.
+pn	Actinotrichia fragilis
+pn	Aedes aegypti
+pn	Aedes albopictus
+pn	Aedes japonicus
+pn	Agapanthus sp.
+pa	Agapornis roseicollis
+pa	Agapornis roseicollis (peach-faced lovebird)
+pa	Agapornis sp.
+pn	Agaricia agaricites
+pn	Agaricia tenuifolia
+pa	Agelaius phoeniceus (red-winged blackbird)
+pa	Agrionemys horsfieldii
+pa	Ailuropoda melanoleuca
+pn	Aiptasia cf. insignis
+pn	Aiptasia pallida
+pn	Aiptasia pulchella
+pn	Akashiwo sanguinea
+pn	Akodon montensis
+pn	Alburnus alburnus
+pn	Alces alces
+pn	Alces alces (intermediate host)
+pn	Alexandrium sp.
+pn	Alouatta puruensis
+pn	Alveolinella quoii
+pa	Amazona aestiva
+pn	Amblyomma rotundatum
+pa	Amblyomma testudinarium
+pn	Amphisorus hemprichii
+pn	Ananas comosus
+pn	Anas clypeata
+pa	Anas platyrhynchos
+pn	Anas platyrhynchos
+pn	Anax junius
+pn	Anemone americana
+pn	Anguilla anguilla
+pa	Anguilla japonica (Japanese eel fry)
+pn	Anolis carolinensis
+pn	Anser albifrons
+pn	Antarctic krill
+pn	Anthelia glauca
+pn	Anthopleura affinis xanthogrammica
+pn	Anthopleura elegantissima (symbiotic sea anemone)
+pn	Anthopleura japonica
+pn	Anthurium sp.
+pn	Aphelandra sp.
+pn	Apis mellifera
+pn	Apodemus flavicollis
+pa	Apodemus flavicollis; AB164
+pa	Apodemus speciosus
+pn	Apodemus sylvaticus
+pa	Apodemus sylvaticus (wood mouse)
+pn	Apteryx australis mantelli
+pn	Asparagopsis armata; Falkenbergia stage
+pa	Atelerix albiventris
+pn	Atlantic herring; Clupea harengus
+pn	Atyaephyra desmarestii
+pa	aurora finch
+pn	Australian cattle
+pn	Australian Feral goat
+pn	Baculogypsina sphaerulata
+pn	Baculogypsinoides spinosus
+pn	Baikalospongia intermedia
+pn	Baikalospongia recta
+pn	Balanus glandula
+pn	Balistes polylepis
+pn	Barbus barbus
+pa	bat
+pn	Bison bison athabascae (wood bison)
+pn	bivalve mollusc
+pn	Blaberus discoidalis
+pn	Blaberus sp. var. Amsterdam
+pn	Blaberus sp. var. Dusseldorf
+pa	Black Bear
+pa	black duck
+pn	Black rhinoceros (Diceros bicornis)
+pn	Blattella germanica
+pn	Blicca bjoerkna
+pa	Boa constrictor constrictor
+pa	Boa constrictor ortoni
+pp	Boehmeria nivea
+pn	Bombina bombina
+pn	Bombus dahlbomii
+pn	Bombus pratorum
+pn	Bombus ruderatus
+pn	Bombus terrestris
+pn	Boops boops
+pn	Borelis pulchra
+pn	Borelis schlumbergeri
+pn	Borelis sp.
+pn	Bos sp.
+pa	Bos taurus
+pn	Bos taurus
+pn	Bos taurus (black breed) 30 month old ox
+pa	Bos taurus (Holstein calf)
+pa	Bos taurus (Holstein cow)
+pn	Bos taurus (Holsterin-Friesian breed) 56 month old cow
+pn	Bos taurus (Holsterin-Friesian breed) 94 month old cow
+pn	Bos taurus (Mix breed of Holsterin-Friesian & Japanese black) 26 month old ox
+pn	Bos taurus adult
+pn	Bos taurus calf
+pn	bovine
+pa	Branta canadensis
+pn	Branta leucopsis
+pn	Brassica rapa
+pp	Brassica rapa subsp. pekinensis
+pp	Brassica spp.
+pa	Bubalus bubalis
+pn	Bubalus bubalis
+pn	Bubalus bubalis (water buffalo)
+pn	buffalo
+pn	Bufo americanus
+pn	Bufo bufo
+pn	Bufo calamita
+pn	calanoid copepod
+pn	Calcarina defrancii
+pn	Calcarina gaudichaudii
+pn	Calcarina hispida
+pa	calf
+pa	Calve
+pn	Camellia japonica
+pn	Camellia sp.
+pn	Camelus dromedarius
+pn	Cancer pagurus
+pa	canine
+pn	canine
+pa	canine breed Cocker Spaniel
+pa	canine breed German Shepherd
+pa	canine Labrador
+pa	Canis familiaris
+pn	Canis familiaris
+pa	Canis familiaris (dog)
+pa	Canis latrans
+pn	Canis lupus
+pa	Canis lupus familiaris
+pn	Canis lupus familiaris
+pa	Canis lupus familiaris breed German Shepherd
+pn	Capra hircus
+pa	Capra ibex
+pn	Caprella alaskana
+pn	Capreolus capreolus
+pn	Capreolus capreolus (intermediate host)
+pa	Capreolus capreolus (roe deer)
+pn	Capreolus capreolus; intermediate host
+pn	Capsicum annuum
+pn	Carassius auratus
+pn	Carassius gibelio
+pn	Carcinus maenas
+pn	Carthamus tinctorius
+pn	Cassiopea sp.
+pn	Cassiopea xamachana
+pn	Catharanthus roseus
+pa	cattle
+pn	cattle
+pn	cattle (blood)
+pn	cattle Kedah-Kelantan breed
+pa	Cavia porcellus
+pn	Ceanothus sp.
+pn	Cepaea nemoralis
+pn	Cerastoderma edule
+pn	Ceratium lineatum
+pn	Ceratium tripos
+pn	Ceratotherium simum simum (Southern White Rhinoceros)
+pn	Cervus elaphus
+pn	Cervus elaphus (red deer)
+pn	Cervus nippon
+pa	Cervus nippon yesoensis
+pn	Chalcides parallelus
+pa	Chamaeleo calyptratus
+pn	Chasiempis sandwichensis
+pn	Chelonia mydas (green sea turtle)
+pn	Chelydra serpentina serpentina
+pn	Cherax quadricarinatus
+pn	Chersina angulata
+pa	chicken
+pn	chicken
+pn	Chlamys islandica
+pn	Choisya ternata
+pn	Chrysanthemum sp.
+pn	Cinnamomum burmannii
+pn	Cirriformia tentaculata
+pn	Citrullus vulgaris
+pn	Citrus
+pn	Citrus (rough lemon)
+pn	Citrus sp.
+pn	Cladiella tuberculoides
+pn	Clarias gariepinus (African sharptooth catfish)
+pn	Clausocalanus arcuicornis
+pn	Clausocalanus sp.
+pn	Clavularia koellikeri
+pn	Clavularia sp.
+pn	Clavularia viridis
+pn	Collodaria
+pn	Columba palumbus
+pn	Columba palumbus (wood pigeon)
+pa	common brushtail possum (Trichosurus vulpecula)
+pn	conchocelis phase
+pa	Connochaetes gnou
+pn	Convoluta convoluta
+pn	Convoluta thela
+pn	Corallina pilulifera
+pn	Corculum cardissa
+pn	Correa reflexa
+pn	Corvus monedula
+pn	Corycaeus furcifer
+pn	Corycaeus giesbrechti
+pn	Coscinodiscus wailesii
+pn	Cotylorhiza tuberculata
+pn	cow
+pa	cow; calf
+pn	Crassostrea ariakensis
+pn	Crassostrea ariakensis (Suminoe oyster)
+pn	Crassostrea gigas
+pn	Crassostrea gigas (Pacific oyster)
+pn	Crassostrea virginica
+pn	Crenicichla lepidota (pike cichlid)
+pa	Cricetulus griseus
+pn	Ctenopharyngodon idellus
+pn	Cucumis melo
+pn	Cucumis sativus
+pn	Cucurbita maxima
+pn	Cucurbita moschata
+pn	Cucurbita pepo
+pn	Cuora mouhotii
+pn	Cyclamen sp.
+pn	Cycloclypeus carpenteri
+pn	Cyclura cornuta (rhino iguana)
+pa	Cynomys ludovicianus (Black-tailed prairie dog)
+pa	Cynopterus brachyotis
+pn	Cyprinus carpio
+pa	Cyprinus carpio (Koi carp)
+pn	Cyrenoida floridana (marsh clam)
+pa	Cystophora cristata
+pn	Dama dama
+pn	Daphnia dentifera
+pn	Daphnia longispina complex
+pn	Daphnia retrocurva
+pa	deer
+pa	deer mouse
+pn	Delisea japonica
+pn	Delphinapterus leucas (beluga whale)
+pn	Dendrocygna autumnalis (black-bellied whistling duck)
+pn	Dentex dentex (common dentex)
+pn	Dermestes maculatus
+pn	Dermolepida albohirtum (greyback canegrub)
+pa	desert monitor
+pn	Diabrotica undecimpunctata
+pn	Dianthus caryophyllus
+pn	Diaphanosoma
+pn	Diceros bicornis
+pn	Didelphis virginiana
+pn	Didelphis virginiana (North American opossum)
+pn	Dikerogammarus haemobaphes
+pn	Dinophysis norvegica
+pn	Diporeia sp.
+pn	Dodonaea viscosa
+pa	dog
+pa	dog (Canis familiaris)
+pa	dog; breed: German Shepherd
+pa	dog; breed: Labrador
+pa	dog; german Shepherd
+pn	domestic cat
+pn	domestic goose
+pa	donkey
+pn	double-crested cormorant (Phalacrocorax auritus)
+pn	duck
+pn	Dunaliella sp.
+pn	Durio zibethinus
+pn	Durvillaea antarctica
+pn	Duttaphrynus melanostictus (Doubtful toad)
+pa	Eastern chipmunk
+pn	Ectocarpus sp.
+pn	Elachista antarctica
+pa	Elaphe guttata
+pn	Eleodes obscura
+pn	Eleodes opaca
+pn	Eleodes tricostata
+pn	Eliomys quercinus
+pn	Elseya latisternum
+pn	Enallagma civile
+pn	Entacmaea quadricolor
+pn	Entacmaea quadricolor (green)
+pn	Entacmaea quadricolor (red)
+pa	Eonycteris spelaea
+pn	Eothenomys miletus
+pa	Eptesicus fuscus
+pn	Eptesicus fuscus
+pn	equine
+pn	Equus caballus
+pa	Equus przewalskii (Prezewalskis wild horse)
+pn	Erica sp.
+pa	Erinaceus europaeus L. (European hedgehog)
+pn	Eucalyptus sp.
+pn	Euchirella rostrata
+pn	Eulimnogammarus vittatus
+pn	euphausid
+pn	Eustoma grandiflorum
+pn	Euterpina acutifrons
+pn	Eutropis macularia
+pn	Falco peregrinus
+pn	Farranula cf. rostrata
+pn	Favella ehrenbergii
+pn	Favia fragum
+pn	Favia sp.
+pn	Favites complanata; scleractinian coral
+pn	Felis catus
+pn	Filoreta japonica
+pn	Filoreta turcica
+pa	fish
+pn	fish
+pa	foal
+pa	fox
+pn	Fragaria x ananassa
+pn	Fragum unedo
+pn	free-roaming cat
+pn	Fulica atra (common coot)
+pn	Fundulus grandis
+pn	Fundulus grandis (Gulf killifish)
+pn	Fungia paumotensis
+pn	Fungia scutaria
+pn	Furcifer sp.
+pn	Gadus morhua
+pn	Galaxea fascicularis
+pn	Gallinula chloropus (common moorhen)
+pn	Gallotia galloti
+pn	Gallus gallus
+pn	Gallus gallus domesticus
+pn	Gammarus mucronatus
+pn	Gasterosteus aculeatus
+pn	Gekko gecko
+pn	Gelidium elegans
+pn	Geochelone carbonaria (red-footed tortoise)
+pa	giant panda
+pn	Glenodinium sp.
+pn	Globigerinella siphonifera
+pn	Globigerinoides conglobatus
+pn	Globigerinoides ruber
+pn	Globigerinoides ruber White
+pn	Globigerinoides sacculifer
+pa	goat
+pn	Gobio gobio
+pn	Gobius fluviatilis
+pn	Gobius kessleri
+pn	Gobius melanostomus
+pn	Gonatodes albogularis fuscus
+pn	Goniastrea aspera
+pa	goose
+pa	Gouldian finch
+pn	grass carp
+pn	Gromphadorhina portentosa
+pn	groper
+pn	Gryllus bimaculatus
+pn	Gryllus pennsylvanicus
+pn	Gymnocephalus cernuus
+pn	Gymnodinium instriatum
+pn	Gypsophila sp.
+pn	Haliotis kamtschatkana and Haliotis rufescens
+pn	Haliotis tuberculata
+pn	Halocynthia roretzi
+pp	Halodule wrightii
+pn	Halophila
+pn	Hemidactylus agrius
+pn	Heterostegina depressa
+pn	Heteroxenia fuscescens
+pn	Hibiscus sp.
+pn	Himatione sanguinea
+pn	Hippeastrum sp.
+pn	Hippocampus hippocampus
+pn	Hippopus hippopus (giant clam)
+pa	Hipposideros pomona
+pn	Homarus americanus
+pa	Homo sapiens
+pn	Homo sapiens
+pa	horse
+pn	horse
+pa	house mouse
+pn	Howea sp.
+pn	Humulus lupulus
+pn	Hydropotes inermis argyropus (Korean water deer)
+pn	Hydropunctaria rheitrophila (specimen-voucher W0972)
+pn	Hydropunctaria rheitrophila (specimen-voucher W1048)
+pn	hyperiid amphipod
+pn	Hypophthalmichthys molitrix
+pa	Ictidomys tridecemlineatus (13-lined ground squirrel)
+pn	Impatiens
+pn	intermediate host: Rangifer tarandus tarandus
+pn	Iranian native goat
+pn	Isodiametra pulchra
+pn	isolated from Blaberus sp. var. Nijmegen
+pn	isolated from Periplaneta americana var. Bayer
+pn	isolated from Periplaneta americana var. Nijmegen
+pn	Ithycyphus oursi
+pn	Ixodes persulcatus
+pn	jellyfish
+pp	Juncus sp.
+pp	Juncus triglumis
+pn	Kalanchoe sp.
+pa	kangaroo
+pn	Karlodinium micrum
+pn	Keratella
+pn	Kinixys zombensis
+pa	koala
+pn	Labeo rohita
+pn	Lagenaria siceraria
+pn	Lagothrix cana cana
+pn	Lama glama
+pn	Lama guanicoe
+pn	Lama guanicoe (guanaco)
+pn	Lama guanicoe (young)
+pa	lamb
+pn	Lapemis hardwickii (sea snake)
+pn	Larus argentatus
+pn	Larus marinus
+pa	Lates calcarifer (Asian seabass)
+pn	Lavandula angustifolia
+pn	Lavandula sp.
+pa	Leopard gecko
+pn	Lepisma saccharina
+pn	Leptastrea transversa
+pa	Leptonychotes weddellii (Weddell seal)
+pn	Leucadendron argenteum
+pn	Leucadendron sp.
+pn	Leuciscus cephalus
+pn	Lilium sp.
+pn	Limnofila anglica
+pn	Limnofila longa
+pn	Limnofila oxoniensis
+pn	Limonium sinense
+pn	Limulus sp.
+pn	Liocarcinus depurator
+pn	Lithobates clamitans
+pn	Lithophyllum racemus
+pn	Litophyton arboreum
+pn	lizard
+pn	Loligo vulgaris
+pa	Lonchura striata domestica
+pa	Lophochroa leadbeateri
+pn	Lottia digitalis
+pn	Lottia pelta
+pn	Lubomirskia incrustans
+pn	Lumbricus terrestris
+pn	Lutra lutra
+pn	Lycopersicon esculentum
+pn	Mabuya sp.
+pn	Macaca fascicularis
+pn	Macropus eugenii
+pa	Macropus fuliginosus
+pa	Macropus giganteus
+pn	Macrostomum lignano
+pn	Madagascarophis colubrinus
+pa	Malacochersus tornieri
+pa	male canine Labrador
+pn	mangrove
+pn	Marginopora kudakajimensis
+pn	Marinogammarus obtusatus
+pn	Maristentor dinoferus
+pa	Marmota flaviventris (yellow-bellied marmot)
+pn	Martes pennanti (fisher)
+pn	Mastigias sp.
+pn	Melanoplus differentialis
+pn	Meleagris gallopavo
+pn	Meles meles (European badger)
+pn	Mercenaria mercenaria
+pa	mink
+pa	Mirounga leonina (southern elephant seal)
+pn	Misgurnus anguillicaudatus
+pn	Molgula citrina
+pn	Molgula manhattensis
+pn	Molgula occidentalis
+pn	Molgula retortiformis
+pn	Molothrus ater
+pn	Montastraea annularis
+pn	Montastraea faveolata
+pn	Montastraea franksi
+pn	Montastrea annularis
+pn	Montastrea curta
+pn	Montipora cactus
+pn	Montipora digitata
+pn	Montipora digitata (red)
+pn	Montipora verrucosa
+pn	Montipora verrucosa (coral)
+pa	mouse
+pn	Mugil gyrans
+pa	Mus musculus
+pn	Mus musculus
+pa	muskrat
+pn	Mya arenaria
+pn	Mycetophyllia ferox
+pa	Myodes rufocanus bedfordiae
+pn	Myrtus communis
+pn	Mytilus galloprovincialis
+pa	Mytilus sp. (blue mussel)
+pn	Nassellaria
+pa	naturally infected dog
+pn	Nauphoeta cinerea
+pn	nematode
+pn	Neorotalia calcar
+pn	Neorotalia sp.
+pn	Nepa cinerea
+pn	Nephthea sp.
+pa	New Guinea Boa snake
+pn	Nicotiana tabacum
+pn	Nummulites venosus
+pn	Nyctereutes procyonoides (racoon dog)
+pn	Nyctiphanes simplex
+pa	Nymphicus hollandicus
+pa	Nymphicus hollandicus (cockatiel)
+pn	Ochlerotatus japonics
+pn	Ochlerotatus japonicus (synonym: Aedes japonicus)
+pn	Ochlerotatus triseriatus (synonym: Aedes triseriatus)
+pn	Octopus vulgaris
+pn	Odocoileus hemionus
+pa	Odocoileus virginianus
+pn	Oikopleura sp.
+pn	Oithona similis
+pn	Oncaea cf. media
+pn	Oncaea sp.
+pn	Oncorhynchus mykiss
+pn	Operculina ammonoides
+pn	Operculina complanata
+pn	Operculina elegans
+pn	Operculina sp.
+pn	Operculinella cumingii
+pn	Oplegnathus fasciatus (spotted knifejaw)
+pa	opossum
+pn	opossum
+pn	opossum 8157
+pn	Orbulina universa
+pn	Oreamnos americanus (Rocky Mountain goat)
+pn	Oreochromis niloticus
+pn	Oryctolagus cuniculus
+pn	Ostrea angasi
+pn	Ostrea aupouria
+pn	Ostrea chilensis
+pn	Ostrea conchaphila
+pn	Ostrea edulis
+pn	Ostrea equestris
+pn	Ostrea puelchana
+pn	Ostrea sandvicensis
+pn	Ostrea stentina
+pn	Ostreola equestris
+pa	ostrich (Struthio camelus)
+pa	Otospermophilus beecheyi (California ground squirrel)
+pn	Oulastrea crispata
+pa	Ovis aries
+pn	Ovis aries
+pn	Ovis canadensis
+pn	Oxidus gracilis
+pn	Pachyclavularia sp.
+pn	Pacific herring; Clupea pallasii
+pa	Padda oryzivora
+pa	Pagophilus groenlandicus
+pa	Paguma larvata
+pn	Palaemonetes paludosus
+pn	Palaemonetes pugio
+pn	Palmaria palmata
+pn	Pan troglodytes verus
+pn	Pandalus platyceros (spot prawn)
+pn	Pandorea jasminoides
+pn	Panesthia cribrata
+pn	Paracalanus parvus
+pn	Paraechaeta hebes
+pn	Paralemnalia eburnea
+pn	Paralichthys olivaceus
+pn	Paralichthys olivaceus (olive flounder)
+pn	Paralithodes camtschaticus (red king crab)
+pn	Paranemertes peregrina
+pa	parrot
+pn	Patinopecten yessoensis
+pa	Pavo cristatus (Indian peafowl)
+pn	Pavona cactus
+pn	Pelophylax esculentus
+pn	Penaeus vannamei
+pa	Perameles bougainville (western barred bandicoot)
+pn	Perca fluviatilis
+pn	Peridiniopsis sp.
+pn	Periplaneta americana
+pn	Periplaneta americana var. Dar es Salaam
+pa	Peromyscus maniculatus
+pa	Peromyscus maniculatus (deer mouse)
+pn	Persea americana
+pa	pet dog
+pa	Petrogale penicillata
+pn	Petrogale penicillata
+pn	Phataginus tricuspis
+pn	Phelsuma madagascariensis grandis
+pa	Phoca hispida
+pa	Phoca vitulina
+pn	Phoca vitulina richardsii
+pn	Phormium tenax
+pn	Phyllochaetopterus prolifica
+pn	Phyllodesmium briareum
+pn	Phyllotreta striolata
+pn	Pica pica (L. 1758) (European magpie)
+pn	Pica pica L. 1758 (Eurasian magpie)
+pa	pig
+pn	pig
+pa	pig genotype II
+pn	Pinus mugo
+pn	Pinus radiata
+pa	Pipistrellus pipistrellus
+pa	pit bull terrier
+pn	Pittosporum sp.
+pn	Planoperculina heterosteginoides
+pn	Planostegina operculinoides
+pn	Pleuronichthys cornutus (righteye flounder)
+pn	Plexaura flexuosa (adult)
+pn	Plexaura kuna (adult)
+pn	Plexaura kuna (polyp)
+pa	plum-headed finch
+pp	Poa alpina
+pp	Poa sp.
+pn	Pocillopora damicornis
+pn	Pocillopora sp.
+pn	Pocillopora verrucosa
+pa	Pogona vitticep
+pn	Pogona vitticeps
+pn	Polyarthra
+pn	Polygala myrtifolia
+pn	Populus euphratica
+pn	Porites astreoides
+pn	Porites cylindrica
+pn	Porphyra spiralis var. spiralis
+pn	Porphyra yezoensis
+pa	Procyon lotor
+pn	Procyon lotor
+pa	Procyon lotor (raccoon)
+pa	Propithecus verreauxi coquereli
+pn	Prorocentrum micans
+pn	Prorocentrum minimum
+pn	Prorocentrum triestinum
+pn	Protoperidinium sp.
+pn	Prunus armeniaca
+pn	Psetta maxima
+pa	Ptenochirus jagori
+pn	Pteraeolidia ianthina
+pn	Pterocanium praetextum
+pn	Pterocladiella tenuis
+pa	Pterophyllum scalare
+pn	Pugettia gracilis
+pn	Pylaiella littoralis
+pn	Pyropia yezoensis
+pp	Pythium sp.
+pn	python
+pa	Python regius
+pn	Python regius Shaw 1802
+pn	Python reticulatus
+pa	quail
+pn	Quercus sp.
+pa	rabbit
+pn	rabbit
+pn	Ramphastos sulfuratus
+pn	Rana catesbeiana
+pn	Rana catesbeina
+pn	Rana clamitans
+pn	Rana dalmatina
+pn	Rana esculenta
+pn	Rana nigromaculata
+pn	Rana pipiens
+pn	Rana temporaria
+pn	Rangifer tarandus tarandus
+pa	Rattus norvegicus; AB193
+pa	Rattus norvegicus; AB200
+pa	Rattus rattus
+pa	Rattus rattus (wild black rat)
+pa	Rattus tanezumi
+pn	Reticulitermes santonensis (termite)
+pn	Rhamnus alaternus
+pn	Rhinolophus hipposideros
+pa	Rhinolophus inops
+pa	Rhinolophus sinicus
+pn	Rhododendron catawbiense
+pn	Rhododendron sp.
+pn	Rhodophyta sp.
+pn	Rhytisma fulvum fulvum
+pn	rodent
+pn	Rosa cv. Sonia
+pn	rotifer
+pa	Rousettus leschenaultii
+pn	Ruditapes decussatus
+pn	Ruditapes philippinarum
+pn	Ruditapes philippinarum (Manila clam)
+pn	Ruditapes variegatus
+pn	Rupicapra rupicapra tatrica
+pn	Rutilus rutilus
+pn	Saccostrea glomerata
+pn	Salamandra salamandra
+pn	Salmo salar
+pn	Sander lucioperca
+pn	Sanionia uncinata
+pn	Sarcophyton ehrenbergi
+pn	Sarcophyton glaucum
+pn	Sardina pilchardus
+pn	Sargassum sp. (coastal brown alga)
+pn	Scardinius erythrophthalmus
+pn	Scaurus punctatus
+pn	Sceloporus occidentalis
+pn	Schlumbergerella floresiana
+pn	Schmidingerella arcuata
+pn	Sciara coprophila
+pa	Sciurus carolinensis (Eastern gray squirrel)
+pa	Sciurus vulgaris
+pn	Scleractinian coral Acropora hyacinthus
+pn	Scleractinian coral Porities sp.
+pn	Scutellastra barbara
+pn	sea snake
+pn	seagrass
+pp	seagrass
+pn	Sebastes schlegelii
+pn	Sepia officinalis
+pa	Serinus canaria
+pa	Serinus canaria (canary)
+pn	Serpula sp.
+pn	Serrasalmus rhombeus (black piranha)
+pa	sheep
+pn	sheep
+pa	Siberian chipmunk
+pa	Siberian hamster
+pn	Siderastrea siderea
+pn	Simmondsia chinensis
+pp	Sinapis arvensis
+pn	Sinularia lochmodes (soft coral)
+pn	Sinularia querciformis
+pn	Sinularia sp.
+pn	Siphonaria lessonii
+pn	Siphonaria pectinata
+pn	Sistrurus catenatus
+pn	skin
+pa	skunk
+pn	snake
+pn	Solanum lycopersicum
+pn	Solanum melongena
+pn	Solen strictus
+pn	Somateria mollissima
+pn	Sorites orbiculus
+pn	Sparus aurata (gilthead sea bream)
+pa	Spermophilus beecheyi
+pa	Spermophilus beldingi
+pa	Spermophilus lateralis
+pn	Spheniscus demersus L. 1758 (black-footed penguin)
+pn	Sprague-Dawley rat
+pn	Spumellaria
+pa	star tortoise
+pn	Stegostoma fasciatum (zebra shark)
+pn	Stereonephthya cundabiluensis
+pn	Stictodora lari in Battilaria australis
+pa	stray dog
+pn	Stylophora pistillata
+pn	Suricata suricatta (slender tailed meerkat)
+pn	Suricata suricatta (slender-tailed meerkat)
+pn	Surinam crested oropendula (Psarocolius decumanus decumanus)
+pn	Sus scrofa
+pn	Syllis nipponica
+pn	Syncerus caffer
+pn	Syncerus caffer (African buffalo)
+pn	Synchaeta sp.
+pn	Takydromus sexlineatus
+pa	Tamias striatus (eastern chipmunk)
+pn	Tamiasciurus hudsonicus
+pa	Tamiasciurus hudsonicus (American red squirrel)
+pn	tank bromeliad
+pn	Tarandus rangiferi
+pn	Tarentola delalandii
+pn	Taurulus bubalis
+pn	Tectura scutum
+pn	Tenebrio molitor
+pa	Teratoscincus scincus
+pa	Testudo hermanni
+pa	Testudo marginata
+pn	Thalassicolla nucleata
+pn	Themisto libellula
+pp	Thuja orientalis
+pn	Tillandsia heterophylla
+pn	Tragulus williamsoni
+pn	Travisia forbesii
+pn	Tribolium castaneum
+pn	Tribolium freemani
+pn	Tricleocarpa cylindrica
+pn	Tricleocarpa sp.
+pn	Tridacna crocea
+pn	Tridacna derasa
+pn	Tridacna gigas
+pn	Tridacna gigas (giant clam)
+pn	tridacnid clam
+pp	Trifolium repens
+pn	Trogonophis wiegmanni
+pn	Trogonophis wiegmanni wiegmanni
+pn	Tubulanus polymorphus
+pn	Tubularia
+pn	Turdus merula
+pn	turkey
+pn	two-bar seabream
+pn	unidentified fish
+pn	unknown anemone
+pa	Urocissa erythrorhyncha (Red-billed Blue Magpie)
+pn	Utricularia reflexa
+pn	Varanus albigularis
+pn	Velella velella
+pn	Verrucaria funckii (specimen-voucher W1232)
+pn	Verrucaria hydrela (specimen-voucher W1280)
+pn	Vicugna pacos
+pn	Vicugna vicugna (adult) F114/E571.2
+pn	Vinca rosea
+pn	Vinca sp.
+pn	Vitis sp.
+pp	Vitis sp.
+pn	Vitis vinifera
+pn	Vostox brunneipennis
+pn	Vulpes lagopus
+pn	Vulpes lagopus; final host
+pn	Vulpes vulpes
+pn	Vulpes vulpes (fox)
+pa	Vulpes vulpes (red fox)
+pn	Vulpes vulpes (red fox)
+pn	Vulpes vulpes; final host
+pn	Waminoa sp.
+pn	Waminoa sp. 1 derived from Symphyllia valenciennesii
+pn	water buffalo
+pn	watercress
+pn	Wattled starling (Creatophora cinerea)
+pn	western grey kangaroo
+pa	white-tailed deer
+pa	wild boar
+pn	wild caught Canadian bullfrog
+pa	wild rodent
+pn	Wistar rat
+pn	Xenia farauensis
+pn	Xenia sp.
+pn	Xenocypris davidi
+pa	Xiang pig
+pa	yak
+pn	Zoanthus sociatus
+pn	Zoanthus sp.
+pn	Zostera marina
