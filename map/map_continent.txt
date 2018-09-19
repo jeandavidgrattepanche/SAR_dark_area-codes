@@ -1,0 +1,13 @@
+	country	LON	LAT	Rhizaria	Alveolata	Stramenopiles
+1	Africa	23	6	41	852	165
+2	Antarctica	21.28439294	-80.5227822	355	25	62
+3	Arctic Ocean	0.5	80.5	6	1	1
+4	Atlantic Ocean	-42.16	25	178	16	10
+5	Australia	134.3760786	-25.56076406	197	333	158
+6	Eurasia	57	51	1221	6604	1979
+7	Indian Ocean	77	-10	131	8	1
+8	Mediterranean Sea	18.005	34.5	31	88	1
+9	North America	-100	44	166	1009	598
+10	Pacific Ocean	-124.8	-9	346	23	7
+11	South America	-60	-13	105	757	86
+12	Southern Ocean	0	-62	4	0	0
