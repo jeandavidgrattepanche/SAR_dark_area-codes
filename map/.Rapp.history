@@ -1,0 +1,338 @@
+select <- order(rowMeans(counts(dds,normalized=TRUE)), decreasing=TRUE)[1:100]
+pheatmap(assay(ntd)[select,], cluster_rows=FALSE,show_rownames=TRUE, show_colnames=FALSE, cluster_cols=TRUE, annotation_col=df)
+pheatmap(assay(ntd)[select,], cluster_rows=TRUE,show_rownames=TRUE, show_colnames=FALSE, cluster_cols=FALSE, annotation_col=df)
+coldat <- read.table("metadata.txt")
+ddds <- DESeqDataSetFromMatrix(cts, coldat, design = ~ condition + size)
+ddds$condition <- relevel(ddds$condition, ref="p0z0")
+dds <- DESeq(ddds)
+df <- as.data.frame(colData(dds)[,c("pk","zk","size")])
+ntd <- normTransform(dds)
+select <- order(rowMeans(counts(dds,normalized=TRUE)), decreasing=TRUE)[1:100]
+pheatmap(assay(ntd)[select,], cluster_rows=TRUE,show_rownames=TRUE, show_colnames=FALSE, cluster_cols=FALSE, annotation_col=df)
+source('/Volumes/GoogleDrive/My Drive/review_Frontiers/Amplicon/DESeq2_results.R', chdir = TRUE)
+source("https://bioconductor.org/biocLite.R")
+if (!requireNamespace("BiocManager", quietly = TRUE))#
+    install.packages("BiocManager")#
+BiocManager::install()
+library(topGO)
+remove.packages(topGO)
+library(topGO)
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA_network_sp.R', chdir = TRUE)
+BiocManager::install('phyloseq')
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA_network_sp.R', chdir = TRUE)
+install.packages("remotes")#
+remotes::install_github("kstagaman/phyloseqCompanion")
+BiocManager::install('phyloseq')
+install.packages("remotes")#
+remotes::install_github("kstagaman/phyloseqCompanion")
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA_network_sp.R', chdir = TRUE)
+plot_richness(physeq, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+plot_richness(physeq, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"), split="depth")
+plot_richness(Mixo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"), split="depth")
+plot_richness(Mixo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA_network_sp.R', chdir = TRUE)
+plot_richness(Mixo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+plot_richness(Mixo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"), sortby="depth")
+plot_richness(Photo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+plot_richness(Het, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA_network_sp.R', chdir = TRUE)
+plot_richness(Het, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+plot_richness(Photo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+plot_richness(Mixo, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+plot_richness(Para, color="Lat", shape="size", measures=c("Observed","Shannon","Chao1"))
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA_network_sp.R', chdir = TRUE)
+PCoAp <- ordinate(pico, "PCoA", distance = "bray")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPp)
+plot(ordplotPpplus)
+PCoAp <- ordinate(pico, "PCoA", distance = "jaccard")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPpplus)
+PCoAp <- ordinate(pico, "PCoA", distance = "unifrac")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPpplus)
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_more100/R_PCoA.r', chdir = TRUE)
+PCoAp <- ordinate(pico, "PCoA", distance = "unifrac")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPpplus)
+PCoAp <- ordinate(pico, "PCoA", distance = "unifrac")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPp)
+PCoAp <- ordinate(pico, "PCoA", distance = "unifrac")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill="depth"))#
+quartz()#
+plot(ordplotPp)
+plot(ordplotPpplus)
+PCoAp <- ordinate(pico, "PCoA", distance = "wunifrac")#
+ordplotPp <- plot_ordination(pico, PCoAp, color="Lat", shape="depth",label="sample",title="Picopk")#
+ordplotPpplus <- ordplotPp + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPpplus)
+quartz()#
+plot(ordplotPp)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.6)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.5)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.2)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.25)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.3)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.28, keep.isolates= TRUE)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.2, keep.isolates= TRUE)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.8, keep.isolates= TRUE)#
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3")
+plot_network(ig,physeq, type="taxa", shape="trophic", color="taxo_rank3",vertex.label=NA)
+edge_density
+edge_density(ig)
+library('igraph')
+edge_density(ig)
+reciprocity(ig)
+diameter(ig)
+plot(ig)
+deg <- degree(ig, mode="all")
+plot(ig, vertex.size=deg*3)
+plot(ig, vertex.size=deg*0.3)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.2)
+plot(ig, vertex.size=deg*0.3)
+plot(ig, vertex.size=deg*0.001)
+plot(ig, vertex.size=deg*0.01)
+plot(ig, vertex.size=deg*0.01, vertex.label=NA)
+plot(ig, vertex.size=deg*0.1, vertex.label=NA)
+plot(ig, vertex.size=deg, vertex.label=NA)
+plot(ig,vertex.label=NA)
+plot(ig, vertex.size=deg*0.5, edge.curved=0.5, vertex.label=NA)
+plot(ig, edge.curved=0.5, vertex.label=NA)
+clp <- cluster_label_prop(ig)
+plot(clp, ig)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.1)
+clp <- cluster_label_prop(ig)
+plot(clp, ig)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.15)
+clp <- cluster_label_prop(ig)
+plot(clp, ig)
+ig <- make_network(physeq, type="sample", distance="bray", max.dist = 0.15)
+ig <- make_network(physeq, type="samples", distance="bray", max.dist = 0.15)
+clp <- cluster_label_prop(ig)
+plot(clp, ig)
+ig <- make_network(physeq, type="samples", distance="bray", max.dist = 0.6)
+clp <- cluster_label_prop(ig)
+plot(clp, ig)
+ig <- make_network(physeq, type="samples", distance="bray", max.dist = 0.5)
+plot(clp, ig)
+clp <- cluster_label_prop(ig)
+plot(clp, ig)
+dendPlot(clp)
+dendPlot(ig)
+ig
+cocitation(ig)
+ceb <- cluster_edge_betweenness(ig)
+dendPlot(ceb)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.15)
+ceb <- cluster_edge_betweenness(ig)
+dendPlot(ceb)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 0.18)
+ceb <- cluster_edge_betweenness(ig)
+dendPlot(ceb)
+ig <- make_network(physeq, type="taxa", distance="bray", max.dist = 1)
+ceb <- cluster_edge_betweenness(ig)
+install.packages('pernute')
+install.packages('permute')
+install.packages('lattice')
+install.packages('vegan')
+envdistb = read.table("Desktop/NBP1910_envdataCTD_2021b.txt")
+d <- vegdist(envdistb)
+library("permute")#
+library("lattice")#
+library("vegan")
+d <- vegdist(envdistb)
+d <- vegdist(envdistb, na.rm=TRUE)
+d
+csin <- hclust(d, method="single")#
+plot(csin, hang= -1)
+envdistb = read.table("Desktop/NBP1910_envdataCTD_2021_noNA.txt")
+d <- vegdist(envdistb)
+csin <- hclust(d, method="single")#
+plot(csin, hang= -1)
+envdistb = read.table("Desktop/NBP1910_envdataCTD_2021_noNA.txt")
+d <- vegdist(envdistb)
+csin <- hclust(d, method="single")#
+plot(csin, hang= -1)
+d <- vegdist(envdistb, method="mahalanobis")
+csin <- hclust(d, method="single")#
+plot(csin, hang= -1)
+stand.envdistc <- scale(envdistc)
+stand.envdistc <- scale(envdistb)
+d <- vegdist(stand.envdistc, method="mahalanobis")
+csin <- hclust(d, method="single")#
+plot(csin, hang= -1)
+cor(envdistb)
+acf(envdistb)
+acf(envdistb, lag.max=1)
+acf(envdistb, lag.max=1, plot = FALSE)
+acf(envdistb, lag.max=0, plot = FALSE)
+cor.test(envdistb)
+cor.test(envdistb$Lat, envdistb$Long)
+cor.test(envdistb$conductivity2, envdistb$conductivity1)
+cor.test(envdistb$conductivity2, envdistb$Lat)
+cor.test(envdistb$depthm, envdistb$Lat)
+cor.test(envdistb$depth_m, envdistb$Lat)
+cor.test(envdistb$pprod_PAR, envdistb$bprod)
+cor.test(envdistb$airT, envdistb$waterT1)
+cor.test(envdistb$chla, envdistb$fluorescence)
+cor.test(envdistb$Chla, envdistb$fluorescence)
+envdistb = read.table("Desktop/NBP1910_envdataCTD_2021_noNAcorr.txt")
+cor(envdistb)
+cor.test(envdistb$fluorescence, envdistb$beamTrans)
+cor.test(envdistb$fluorescence, envdistb$oxygenSaturation)
+cor.test(envdistb$beamTrans, envdistb$oxygenSaturation)
+cor.test(envdistb$latitude, envdistb$longitude)
+cor.test(envdistb$fluorescence, envdistb$bprod)
+d <- vegdist(envdistb, method="mahalanobis")
+csin <- hclust(d, method="single")#
+plot(csin, hang= -1)
+princomp(envdistb)
+pcrenv <- princomp(envdistb)
+biplot(pcrenv)
+rda.env <- rda(envdistb)
+biplot(rda.env, display= c("sites","species"), type = c("text", "points"))
+envd.sc <- scale(envdistb)
+rda.env <- rda(envd.sc)
+biplot(rda.env, display= c("sites","species"), type = c("text", "points"))
+biplot(rda.env, display= c("sites","species"), type = c("text", "text"))
+pcrenv <- princomp(envd.sc)
+biplot(pcrenv)
+cor(envd.sc)
+source('/Volumes/GoogleDrive/My Drive/RWS0001-0096_MiSeq/R_MiSeq/R_all/R_PCoA.r', chdir = TRUE)
+data.all <- read.table('~/Desktop/OTUtable_merged.txt')
+mytable = otu_table(data.all, taxa_are_rows=TRUE,errorIfNULL=TRUE)
+env.all <- read.table('~/Desktop/envdataNBP1910_DeskTemp/NBP1910_envdataCTD_2021b.txt')
+envdata = sample_data(env.all)
+physeq <- phyloseq(mytable, envdata)
+sample_names(mytable)
+sample_names(envdata)
+data.all <- read.table('~/Desktop/OTUtable_merged.txt')
+mytable = otu_table(data.all, taxa_are_rows=TRUE,errorIfNULL=TRUE)
+physeq <- phyloseq(mytable, envdata)
+PCoA <- ordinate(physeq, "PCoA")
+ordplotP <- plot_ordination(physeq, PCoA, color="Lat", shape="size",label="sample", title="Allsize")
+ordplotP <- plot_ordination(physeq, PCoA, color="Lat", shape="size_num",label="sample", title="Allsize")
+ordplotP <- plot_ordination(physeq, PCoA, color="Lat", shape="size_num", title="Allsize")
+ordplotP
+env.all <- read.table('~/Desktop/envdataNBP1910_DeskTemp/NBP1910_envdataCTD_2021.txt')
+envdata = sample_data(env.all)
+physeq <- phyloseq(mytable, envdata)
+PCoA <- ordinate(physeq, "PCoA")
+ordplotP <- plot_ordination(physeq, PCoA, color="Lat", shape="size",label="sample", title="Allsize")
+ordplotP
+ordplotPplus <- ordplotP + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=size))
+ordplotPplus
+ordplotP <- plot_ordination(physeq, PCoA, color="Lat", shape="size",label="sample", title="All_OTUs_merged")
+ordplotPplus <- ordplotP + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=size))
+ordplotPplus
+data.all <- read.table('~/Desktop/OTUtable_FWDonly.txt')
+mytable = otu_table(data.all, taxa_are_rows=TRUE,errorIfNULL=TRUE)
+data.all <- read.table('~/Desktop/OTUtable_FWDonly.txt')
+mytable = otu_table(data.all, taxa_are_rows=TRUE,errorIfNULL=TRUE)
+data.all <- read.table('~/Desktop/OTUtable_FWDonly.txt')
+mytable = otu_table(data.all, taxa_are_rows=TRUE,errorIfNULL=TRUE)
+physeq <- phyloseq(mytable, envdata)
+PCoA <- ordinate(physeq, "PCoA")
+ordplotP <- plot_ordination(physeq, PCoA, color="Lat", shape="size",label="sample", title="All_OTUs_FWDonly")
+ordplotPplus <- ordplotP + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=size))
+ordplotPplus
+ordplotP
+ordplotPplus
+pico <- subset_samples(physeq, size == "pico")#
+nano <- subset_samples(physeq, size == "nano")#
+micro <- subset_samples(physeq, size == "micro")
+PCoAm <- ordinate(micro, "PCoA")#
+ordplotPm <- plot_ordination(micro, PCoAm, color="Lat", shape="depth",label="sample",title="Micropk_FWDonly")#
+ordplotPmplus <- ordplotPm + geom_point(size=3) + stat_ellipse(geom = "polygon", type="norm", alpha=0.4, aes(fill=depth))#
+quartz()#
+plot(ordplotPmplus)
+ordplotPmplus <- ordplotPm + geom_point(size=3))#
+quartz()#
+plot(ordplotPmplus)
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+PCoAm <- ordinate(nano, "PCoA")#
+ordplotPm <- plot_ordination(nano, PCoAm, color="Lat", shape="depth",label="sample",title="Nanopk_FWDonly")#
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+PCoAm <- ordinate(pico, "PCoA")#
+ordplotPm <- plot_ordination(pico, PCoAm, color="Lat", shape="depth",label="sample",title="Picpk_FWDonly")#
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+data.all <- read.table('~/Desktop/OTUtable_merged.txt')
+mytable = otu_table(data.all, taxa_are_rows=TRUE,errorIfNULL=TRUE)
+physeq <- phyloseq(mytable, envdata)
+pico <- subset_samples(physeq, size == "pico")#
+nano <- subset_samples(physeq, size == "nano")#
+micro <- subset_samples(physeq, size == "micro")
+PCoAm <- ordinate(micro, "PCoA")#
+ordplotPm <- plot_ordination(micro, PCoAm, color="Lat", shape="depth",label="sample",title="Micropk_merged")#
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+PCoAm <- ordinate(nano, "PCoA")#
+ordplotPm <- plot_ordination(nano, PCoAm, color="Lat", shape="depth",label="sample",title="Nanopk_FWDonly")#
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+PCoAm <- ordinate(nano, "PCoA")#
+ordplotPm <- plot_ordination(nano, PCoAm, color="Lat", shape="depth",label="sample",title="Nanopk_merge")#
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+PCoAm <- ordinate(pico, "PCoA")#
+ordplotPm <- plot_ordination(pico, PCoAm, color="Lat", shape="depth",label="sample",title="Picopk_merged")#
+ordplotPmplus <- ordplotPm + geom_point(size=3)#
+quartz()#
+plot(ordplotPmplus)
+source('~/Documents/GitHub/SAR_dark_area-codes/map/Rcommand.R', chdir = TRUE)
+source('~/Documents/GitHub/SAR_dark_area-codes/map/Rcommand.R', chdir = TRUE)
+mapPies( dataGB,nameX="LON", nameY="LAT", nameZs=c('Globigerina_bulloides','Globigerinella_siphonifera','Amphisorus_hemprichii','Phyllostaurus_cuspidatus','Globoquadrina_conglomerata','Virgulinella_fragilis','Sorites_orbiculus','Neidium_amphigomphus'),mapRegion='world', oceanCol = "white",landCol = "gray80")
+rworldmap
+package_version(rworldmap)
+packageVersion(rworldmap)
+mapPies( dataGB,nameX="LON", nameY="LAT", nameZs=c('Globigerina_bulloides','Globigerinella_siphonifera','Amphisorus_hemprichii','Phyllostaurus_cuspidatus','Globoquadrina_conglomerata','Virgulinella_fragilis','Sorites_orbiculus','Neidium_amphigomphus'),mapRegion='world', oceanCol = "white",landCol = "gray80")
+library(rworldmap)
+source('~/Documents/GitHub/SAR_dark_area-codes/map/Rcommand.R', chdir = TRUE)
+source('~/Documents/GitHub/SAR_dark_area-codes/map/Rcommand.R', chdir = TRUE)
+dataGB
+dataGB <- read.table("map_gps_speciesv2.txt", sep="\t", stringsAsFactors = FALSE, quote = "", header = TRUE)#
+attach(dataGB)
+setwd('~/Documents/GitHub/SAR_dark_area-codes/map')
+dataGB <- read.table("map_gps_speciesv2.txt", sep="\t", stringsAsFactors = FALSE, quote = "", header = TRUE)#
+attach(dataGB)#
+mapPies( dataGB,nameX="LON", nameY="LAT", nameZs=c('Globigerina_bulloides','Globigerinella_siphonifera','Amphisorus_hemprichii','Phyllostaurus_cuspidatus','Globoquadrina_conglomerata','Virgulinella_fragilis','Sorites_orbiculus','Neidium_amphigomphus'),mapRegion='world', oceanCol = "white",landCol = "gray80")
+dataGB <- read.table("map_gps_speciesv2.txt", sep="\t", stringsAsFactors = FALSE, quote = "", header = TRUE)
+detach()
+dataGB
+mapPies( dataGB,nameX="LON", nameY="LAT", nameZs=c('Globigerina_bulloides','Globigerinella_siphonifera','Amphisorus_hemprichii','Phyllostaurus_cuspidatus','Globoquadrina_conglomerata','Virgulinella_fragilis','Sorites_orbiculus','Neidium_amphigomphus'),mapRegion='world', oceanCol = "white",landCol = "gray80")
+dataGB$Globigerina_bulloides
+mapPies( dataGB,nameX="LON", nameY="LAT", nameZs=c(Globigerina_bulloides,Globigerinella_siphonifera),mapRegion='world', oceanCol = "white",landCol = "gray80")
+mapPies( dataGB,nameX="LON", nameY="LAT", nameZs=c(dataGB$Globigerina_bulloides,dataGB$Globigerinella_siphonifera),mapRegion='world', oceanCol = "white",landCol = "gray80")
+mapPies( dataGB,nameX=dataGB$LON, nameY=dataGB$LAT, nameZs=c(dataGB$Globigerina_bulloides,dataGB$Globigerinella_siphonifera),mapRegion='world', oceanCol = "white",landCol = "gray80")
+attach(dataGB)
+detach(dataGB)
+attach(dataGB)
